@@ -1,0 +1,1 @@
+System.register(["./react-setup-legacy-CjrUzkdu.js"],(function(e,t){"use strict";var c;return{setters:[e=>{c=e.u}],execute:function(){e("u",(()=>[c((({global:e})=>e.blockPendingAccountViewPrice))]))}}}));
