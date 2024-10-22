@@ -1,0 +1,1 @@
+System.register(["./react-setup-legacy-CoXV7Ff0.js"],(function(e,t){"use strict";var c;return{setters:[e=>{c=e.u}],execute:function(){e("u",(()=>[c((({global:e})=>e.blockPendingAccountViewPrice))]))}}}));
