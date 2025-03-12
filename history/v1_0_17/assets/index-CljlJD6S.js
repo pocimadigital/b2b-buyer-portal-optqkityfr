@@ -1,0 +1,1 @@
+import{j as i}from"./mui-CyG7s_nf.js";import"./reactVendor-BAhb8EbJ.js";import"./eReact-DeS39u1B.js";import"./intl-CIPMD0ue.js";import"./eCache-BQInSoPa.js";import"./eStyled-B3rIBjaz.js";function n(){return i.jsx("div",{children:"InvoiceDetail"})}export{n as default};
